@@ -1,6 +1,6 @@
 {
   "name": "reflux",
-  "version": "0.2.12",
+  "version": "0.2.12-sigma",
   "description": "A simple library for uni-directional dataflow application architecture inspired by ReactJS Flux",
   "main": "src/index.js",
   "scripts": {
@@ -57,6 +57,6 @@
     "sinon": "^1.10.3"
   },
   "peerDependencies": {
-    "react": ">=0.12.2 <=0.14.*"
+    "react": ">=0.12.2"
   }
 }
